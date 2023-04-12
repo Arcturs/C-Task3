@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTask3", "CTask3\CTask3.vcxproj", "{FEC7CE77-6444-4CAB-B728-834B221D5740}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC7CE77-6444-4CAB-B728-834B221D5740}.Debug|x64.ActiveCfg = Debug|x64
+		{FEC7CE77-6444-4CAB-B728-834B221D5740}.Debug|x64.Build.0 = Debug|x64
+		{FEC7CE77-6444-4CAB-B728-834B221D5740}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEC7CE77-6444-4CAB-B728-834B221D5740}.Debug|x86.Build.0 = Debug|Win32
+		{FEC7CE77-6444-4CAB-B728-834B221D5740}.Release|x64.ActiveCfg = Release|x64
+		{FEC7CE77-6444-4CAB-B728-834B221D5740}.Release|x64.Build.0 = Release|x64
+		{FEC7CE77-6444-4CAB-B728-834B221D5740}.Release|x86.ActiveCfg = Release|Win32
+		{FEC7CE77-6444-4CAB-B728-834B221D5740}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB150D70-71C4-46F3-8934-78C60A2012FF}
+	EndGlobalSection
+EndGlobal
